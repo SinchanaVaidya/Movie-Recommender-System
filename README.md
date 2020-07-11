@@ -206,6 +206,7 @@ corr_ironman[corr_ironman['no_of_ratings']>100].sort_values('Correlation',ascend
 <br><br>
 
 ## A Neural Network Inspired Approach for Improved Movie Recommendations
+“Recommendation systems” are services that use Artificial Intelligence (AI) and Natural Language Processing (NLP) techniques to provide the empirical solutions of the recommendations for various application frameworks and services.
 ### Multivariate Movie Recommendation Model
 <img src="https://user-images.githubusercontent.com/66874666/87219511-7df6b200-c379-11ea-9dfd-48c4fbd822dd.png" width="700" height="450"><br>
 <br>
